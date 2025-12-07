@@ -27,5 +27,6 @@ The analysis successfully calculated three key performance indicators (KPIs):
 
 ---
 
-### V. Dashboard Visualization
-Coming soon.........
+### V. Dashboard Visualization 
+Retail sales Perfomance Dashboard (<img width="1149" height="690" alt="Screenshot 2025-12-07 151740" src="https://github.com/user-attachments/assets/12ab51a0-00e7-47d4-85e4-cfeee47ebe8f" />)
+
